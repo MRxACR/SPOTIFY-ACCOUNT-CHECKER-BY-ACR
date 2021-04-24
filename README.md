@@ -1,4 +1,4 @@
-# 
+# SPOTIFY ACCOUNT CHECKER V1 BY ACR
 
  ________  ________  ________     
 |\   __  \|\   ____\|\   __  \    
