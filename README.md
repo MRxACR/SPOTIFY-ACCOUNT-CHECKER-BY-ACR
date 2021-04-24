@@ -1,14 +1,7 @@
 # SPOTIFY ACCOUNT CHECKER V1 BY ACR
 
-"   ________  ________  ________ "    
-"  |\   __  \|\   ____\|\   __  \"    
-"  \ \  \|\  \ \  \___|\ \  \|\  \ "  
-"   \ \   __  \ \  \    \ \   _  _\ " 
-"    \ \  \ \  \ \  \____\ \  \\  \| "
-"     \ \__\ \__\ \_______\ \__\\ _\ "
-"      \|__|\|__|\|_______|\|__|\|__|"
 
-* FULL SCRIPT BY : ACR \n
+* FULL SCRIPT BY : ACR 
 * SCRIPT : SPOTIFY ACCOUNT CHECKER
 * Twitter : /acrabdou
 * Instagram : /two_p_seven
