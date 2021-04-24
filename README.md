@@ -1,1 +1,1 @@
-# ACR_
+# This script is just for learning
