@@ -8,8 +8,8 @@
    \ \__\ \__\ \_______\ \__\\ _\ 
     \|__|\|__|\|_______|\|__|\|__|
 
-FULL SCRIPT BY : ACR \n
-SCRIPT : SPOTIFY ACCOUNT CHECKER
+# FULL SCRIPT BY : ACR \n
+# SCRIPT : SPOTIFY ACCOUNT CHECKER
 twitter : /acrabdou
 instagram : /two_p_seven
 version : Beta1.0
