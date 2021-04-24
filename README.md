@@ -1,18 +1,18 @@
 # SPOTIFY ACCOUNT CHECKER V1 BY ACR
 
- ________  ________  ________     
-|\   __  \|\   ____\|\   __  \    
-\ \  \|\  \ \  \___|\ \  \|\  \   
- \ \   __  \ \  \    \ \   _  _\  
-  \ \  \ \  \ \  \____\ \  \\  \| 
-   \ \__\ \__\ \_______\ \__\\ _\ 
-    \|__|\|__|\|_______|\|__|\|__|
+*   ________  ________  ________     
+*  |\   __  \|\   ____\|\   __  \    
+*  \ \  \|\  \ \  \___|\ \  \|\  \   
+*   \ \   __  \ \  \    \ \   _  _\  
+*    \ \  \ \  \ \  \____\ \  \\  \| 
+*     \ \__\ \__\ \_______\ \__\\ _\ 
+*      \|__|\|__|\|_______|\|__|\|__|
 
 * FULL SCRIPT BY : ACR \n
 * SCRIPT : SPOTIFY ACCOUNT CHECKER
-twitter : /acrabdou
-instagram : /two_p_seven
-version : Beta1.0
+* Twitter : /acrabdou
+* Instagram : /two_p_seven
+* Version : Beta1.0
 
  - This script is just for learning
  - Before running this tool, you must first install those required modules .
@@ -20,7 +20,7 @@ version : Beta1.0
  - if you find an error , contact me 
  - this script countain my discord server [ It just for know how many people use this script ]
 
-required modules [ use pip isntall **** ]
+* Required modules [ use pip isntall **** ]
   - requests
   - BeautifulSoup4
   - dearpygui
