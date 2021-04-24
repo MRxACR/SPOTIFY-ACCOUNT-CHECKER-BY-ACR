@@ -14,11 +14,11 @@ twitter : /acrabdou
 instagram : /two_p_seven
 version : Beta1.0
 
- 1 - This script is just for learning
- 2 - Before running this tool, you must first install those required modules .
- 3 - This is a beta version so you can find bugs and errors .
- 4 - if you find an error , contact me 
- 5 - this script countain my discord server [ It just for know how many people use this script ]
+ - This script is just for learning
+ - Before running this tool, you must first install those required modules .
+ - This is a beta version so you can find bugs and errors .
+ - if you find an error , contact me 
+ - this script countain my discord server [ It just for know how many people use this script ]
 
 required modules [ use pip isntall **** ]
   - requests
