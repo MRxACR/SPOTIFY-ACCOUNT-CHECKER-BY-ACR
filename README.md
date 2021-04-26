@@ -5,7 +5,7 @@
 * SCRIPT : SPOTIFY ACCOUNT CHECKER
 * Twitter : /acrabdou
 * Instagram : /two_p_seven
-* Version : Beta1.0
+* Version : Beta1.0V
 
  - This script is just for learning
  - Before running this tool, you must first install those required modules .
@@ -13,7 +13,7 @@
  - if you find an error , contact me 
  - this script countain my discord server [ It just for know how many people use this script ]
 
-* Required modules [ use pip isntall **** ]
+* Required modules [ use pip install **** ]
   - requests
   - BeautifulSoup4
   - dearpygui
